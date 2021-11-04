@@ -1,4 +1,4 @@
-// THE ACTUAL FILE EXTENSION IS SUPPOSED TO BE .CT
+// THE ACTUAL FILE EXTENSION IS SUPPOSED TO BE .CT! USING .s BECAUSE GITHUB DOES NOT RECOGNIZE .CT FILE EXTENSION!
 // All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin
 // Flash BTD5 Bloon Income Hack for 32bit Flash Player. Last updated: Sept 2021
 [ENABLE]
