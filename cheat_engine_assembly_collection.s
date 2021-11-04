@@ -198,7 +198,7 @@ dealloc(newmem)
 
 
 
-// Most credits give to Cheat the Game, a YouTuber.
+// 75% credits give to Cheat the Game, a YouTuber.
 // Minecraft Java Edition 1.15.2 Teleport Hack. Last updated: March 2020
 [ENABLE]
 
