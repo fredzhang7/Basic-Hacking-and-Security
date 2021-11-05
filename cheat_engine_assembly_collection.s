@@ -1,5 +1,5 @@
 // THE ACTUAL FILE EXTENSION IS SUPPOSED TO BE .CT! USING .s BECAUSE GITHUB DOES NOT RECOGNIZE .CT FILE EXTENSION!
-// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin
+// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin. Credits go to the actual video games that allow my mod to run on.
 // Flash BTD5 Bloon Income Hack for 32bit Flash Player. Last updated: Sept 2021
 [ENABLE]
 
@@ -198,7 +198,7 @@ dealloc(newmem)
 
 
 
-// 75% credits give to Cheat the Game, a YouTuber.
+// 70% credits give to Cheat the Game, a YouTuber.
 // Minecraft Java Edition 1.15.2 Teleport Hack. Last updated: March 2020
 [ENABLE]
 
