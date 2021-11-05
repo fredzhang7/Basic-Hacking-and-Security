@@ -1,5 +1,4 @@
-// THE ACTUAL FILE EXTENSION IS SUPPOSED TO BE .CT! USING .s BECAUSE GITHUB DOES NOT RECOGNIZE .CT FILE EXTENSION!
-// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin. Credits go to the actual video games that allow my mod to run on.
+// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin. Copyright goes to the actual video games that allow my mod to run on.
 
 
 
