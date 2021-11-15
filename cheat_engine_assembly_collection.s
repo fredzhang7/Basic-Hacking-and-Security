@@ -1,4 +1,4 @@
-// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin. Copyright goes to the actual video games that allow my mod to run on.
+// All created by FreddyZhang666, Fandom’s Official Cheat Engine Wiki Admin.
 
 
 
